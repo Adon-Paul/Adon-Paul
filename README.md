@@ -211,6 +211,42 @@ const adonPaulTomy = {
 
 </div>
 
+## 💻 LeetCode Journey
+
+<div align="center">
+
+### 🧠 Problem Solving Stats
+
+[![LeetCode Stats](https://leetcode.card.workers.dev/AdonPaul?theme=dark&font=baloo&extension=null)](https://leetcode.com/AdonPaul/)
+
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Problems_Solved-5-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="Problems Solved"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Easy-4/901-green?style=for-the-badge&logo=leetcode&logoColor=white" alt="Easy Problems"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Medium-1/1920-yellow?style=for-the-badge&logo=leetcode&logoColor=white" alt="Medium Problems"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Hard-0/870-red?style=for-the-badge&logo=leetcode&logoColor=white" alt="Hard Problems"/>
+</td>
+</tr>
+</table>
+
+### 🎯 Recent Activity
+**🔥 Currently working on:** Building problem-solving foundation  
+**📈 Goal:** Reach 100 problems solved by end of 2025  
+**💡 Focus Areas:** Arrays, Strings, and Basic Algorithms  
+
+<a href="https://leetcode.com/AdonPaul/">
+<img src="https://img.shields.io/badge/Visit_My_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/>
+</a>
+
+</div>
+
 ## 🎓 Certifications & Training
 
 <div align="center">
