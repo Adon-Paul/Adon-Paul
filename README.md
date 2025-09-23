@@ -17,8 +17,6 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
 ```typescript
 const adonPaulTomy = {
     name: "Adon Paul Tomy",
@@ -50,8 +48,6 @@ const adonPaulTomy = {
     funFact: "I can transform any image into a masterpiece and architect a full e-commerce app faster than you can say 'Hello World!' 🚀"
 };
 ```
-
-<br clear="right"/>
 
 ## 🎯 What I'm Currently Working On
 
