@@ -302,7 +302,9 @@ const adonPaulTomy = {
 
 <div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31l77y2aweyzjsyeah2l7grtl7fy&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=53b14f)](https://spotify-github-profile.vercel.app/api/view?uid=31l77y2aweyzjsyeah2l7grtl7fy&redirect=true)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=fsdz9o688r7b94pz70c1ulyvu&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=53b14f&hide_cursor=true)](https://spotify-github-profile.vercel.app/api/view?uid=fsdz9o688r7b94pz70c1ulyvu&redirect=true)
+
+**🎧 When I'm not coding, I'm jamming to these beats! Click above to see what's currently playing.**
 
 </div>
 
