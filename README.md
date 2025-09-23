@@ -217,7 +217,7 @@ const adonPaulTomy = {
 
 ### 🧠 Problem Solving Stats
 
-[![LeetCode Stats](https://leetcode.card.workers.dev/AdonPaul?theme=dark&font=baloo&extension=null)](https://leetcode.com/AdonPaul/)
+[![LeetCode Stats](https://leetcode.card.workers.dev/retrouser?theme=dark&font=baloo&extension=null)](https://leetcode.com/retrouser/)
 
 <table>
 <tr>
@@ -241,7 +241,7 @@ const adonPaulTomy = {
 **📈 Goal:** Reach 100 problems solved by end of 2025  
 **💡 Focus Areas:** Arrays, Strings, and Basic Algorithms  
 
-<a href="https://leetcode.com/AdonPaul/">
+<a href="https://leetcode.com/retrouser/">
 <img src="https://img.shields.io/badge/Visit_My_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/>
 </a>
 
