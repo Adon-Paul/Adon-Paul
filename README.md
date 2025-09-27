@@ -45,7 +45,7 @@ const adonPaulTomy = {
         "Cybersecurity", "Payment Gateway Integration"
     ],
     
-    funFact: "I can transform any image into a masterpiece and architect a full e-commerce app faster than you can say 'Hello World!' 🚀"
+    funFact: "I can architect a full e-commerce app faster than you can say 'Hello World!' "
 };
 ```
 
